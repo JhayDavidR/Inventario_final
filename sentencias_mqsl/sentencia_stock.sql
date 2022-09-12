@@ -1,0 +1,1 @@
+SELECT tblproducto_NombreProducto, tblproducto_stock FROM `tblproducto` ORDER BY tblproducto_stock DESC
